@@ -24,8 +24,12 @@ how to ensure that the argument is correct to derive the correct dataset and the
 o	What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 - The successful campaigns has a higher ratio across all the months as compared to failed or canceled, however, most successful campaigns happened in the month of Feb, May and June.
 It concludes that these are the months Louise can focus to do fundraising activity to have a higher rate of return.
+
+![Outcomes based on Theatre launch date](Resources/Theater_Outcomes_vs_Launch.png)
+
 o	What can you conclude about the Outcomes based on Goals?
 – The goals when set to less than 20K were most successful as compared to goals when set between the range of 25k-50k.
+![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 
 o	What are some limitations of this dataset?
 - While having a great amount of data, it is imperative that the format of the data is widely acceptable format in the systems and different coding platforms/software.
